@@ -1,0 +1,23 @@
+# Editor files
+.*.swp
+fp.cfg
+fp___.err
+fp___.out
+fp.ini
+fp.dsk
+
+# Compiled code
+*.o
+*.ppu
+*.exe
+
+# Lazarus project
+lib/*
+ytembed
+*.lps
+*.res
+*.lrs
+*.compiled
+*.or
+*.lrt
+*.rst
